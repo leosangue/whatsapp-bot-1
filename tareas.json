@@ -1,0 +1,30 @@
+{
+    "ntareas": "5",
+    "tareas": {
+        "1": {
+            "nombre": "ESPANOL",
+            "descripcion": "Completar todos los documentos del classroom de español. (No enviar)",
+            "fecha_entrega": "16/08"
+        },
+        "2": {
+            "nombre": "MATE",
+            "descripcion": "Terminar problemas de la actividad S4 en classroom.",
+            "fecha_entrega": "16/08"
+        },
+        "3": {
+            "nombre": "TEC",
+            "descripcion": "Terminar tabla e infografia en classroom.",
+            "fecha_entrega": "19/08"
+        },
+        "4": {
+            "nombre": "ESPANOL",
+            "descripcion": "SUMATIVA 1",
+            "fecha_entrega": "21/08"
+        },
+        "5": {
+            "nombre": "FRANCES",
+            "descripcion": "SUMATIVA 1",
+            "fecha_entrega": "21/08"
+        }
+    }
+}
